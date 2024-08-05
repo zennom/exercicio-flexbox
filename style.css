@@ -14,6 +14,7 @@ body{
 }
 
 .logo img{
+    margin-top: 20px;
     width: 50px;
 }
 .container {
